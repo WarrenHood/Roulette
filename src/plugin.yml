@@ -1,0 +1,7 @@
+name: com.nullbyte001.roulette
+version: 0.1
+main: com.nullbyte001.roulette.Main
+commands:
+   bet:
+      description: Bets all items in main hand on a number from 0 to 35
+      usage: Hold item and type /bet <space seperated list of number to bet>
